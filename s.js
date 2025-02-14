@@ -5,3 +5,4 @@ Object.defineProperty(mas, "zz", {
 });
 console.log(mas);
 fdsfsdfdsf;
+fdsfsdfsd;
