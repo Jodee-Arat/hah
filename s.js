@@ -4,3 +4,4 @@ Object.defineProperty(mas, "zz", {
   enumerable: true,
 });
 console.log(mas);
+fdsfsdfdsf;
